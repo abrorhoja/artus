@@ -1,0 +1,21 @@
+body{
+	background-color: white;
+}
+#google-img {
+    text-align: center;
+    margin-top: 200px;
+}
+#qwerty {
+    width: 450px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+#mail {
+    margin-left: 1475px;
+}
+#pictures{
+    margin-left: 1450px;
+}
+.fas fa-microphone {
+    size: 50px;
+}

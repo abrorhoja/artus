@@ -1,0 +1,14 @@
+h1{
+	color: #aa343a/30%;
+	font-family: Roboto;
+	text-align: center; 
+	background: #87f321;
+	border-radius:15px 0px; 
+}
+.h1{
+	color: #fff;
+	font-family: Roboto;
+	text-align: center; 
+	background: #000;
+	border-radius:15px 0px; 
+}
